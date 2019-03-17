@@ -2,7 +2,7 @@
 
 Won the Grand Prize at Yale-NUS hack4climate
 
-Built a multi-agent system with NetLogo to model the game theoretic behaviour of countries' climate policy
+Built a multi-agent simulation to model the game-theoretic behaviour of countries' climate policy
 
-![SS](darkmapwithflag.png)
-
+[![Watch the video](darkmapwithflag.png)](https://www.youtube.com/watch?v=DVdcaNT0RZ8&feature=youtu.be)
+[Watch the video](https://www.youtube.com/watch?v=DVdcaNT0RZ8&feature=youtu.be)
